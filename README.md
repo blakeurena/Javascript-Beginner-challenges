@@ -1,50 +1,19 @@
 # JavaScript Beginner Challenges
 
-This project contains a collection of beginner-friendly JavaScript functions designed to practice core programming fundamentals.
+This repository contains various beginner-friendly challenges designed to help you learn and practice JavaScript.
 
-The challenges focus on learning how to use:
+## Challenges
 
-* Functions
-* Parameters
-* Return values
-* Arithmetic operations
-* Boolean logic
-* Conditional statements
-* The modulus operator
+- Challenge 1: FizzBuzz
+- Challenge 2: Reverse a String
+- Challenge 3: Factorialize a Number
 
-Each function solves a small coding challenge and prints the result using `console.log()`.
+## Getting Started
 
----
+1. Clone the repository: `git clone https://github.com/blakeurena/Javascript-Beginner-challenges.git`
+2. Change directory: `cd Javascript-Beginner-challenges`
+3. Start solving challenges!
 
-# Project Structure
+## Contributing
 
-```
-javascript-beginner-challenges/
-│
-├── index.html
-├── app.js
-└── README.md
-```
-
-* **index.html** – Loads the JavaScript file
-* **script.js** – Contains all challenge solutions
-* **README.md** – Documentation for the project
-
----
-
-# How to Run the Project
-
-## Option 1 – Run in the Browser
-
-1. Open `index.html`
-2. Right click the page
-3. Click **Inspect**
-4. Go to the **Console tab**
-
-You will see the results printed from the JavaScript functions.
-
----
-
-## Option 2 – Run with Node.js
-
-If you have Node installed:
+Feel free to submit a pull request with your solutions!
